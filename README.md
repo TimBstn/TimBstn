@@ -6,6 +6,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=TimBstn&color=red)&nbsp;
 [![GitHub TimBstn](https://img.shields.io/github/followers/TimBstn?label=follow&style=social)](https://github.com/TimBstn)&nbsp;
 ![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)
+
+---
+
 ### :point_right: &nbsp;About Me
 
 💡 &nbsp; I'm a student very interested in algorithmic trading and financial markets. \
@@ -18,7 +21,7 @@
 ✉️ &nbsp;You can email me at tim_bastian97@web.de.\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1AEs-jhOYdpgN4YfCQwodfytMPpp-VBJ_/view?usp=sharing) for more details about me.
 
-
+---
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
@@ -27,7 +30,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
 
-
+---
 ### :exclamation: &nbsp; Most important Projects
 
 [Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer)
@@ -35,6 +38,7 @@
 
 [Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
 
+---
 
 ### :coffee: &nbsp; Let's have a coffee chat:
 
