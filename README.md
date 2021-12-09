@@ -4,8 +4,8 @@
 ### :raised_hand: Hello there !
 ![version :09.12.2021](https://img.shields.io/badge/version-09.12.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=TimBstn&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+[![GitHub TimBstn](https://img.shields.io/github/followers/TimBstn?label=follow&style=social)](https://github.com/TimBstn)&nbsp;
+![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
