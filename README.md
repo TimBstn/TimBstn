@@ -24,6 +24,8 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
+
 
 
 ### :coffee: &nbsp; Let's have a coffee chat:
