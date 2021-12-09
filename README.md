@@ -23,6 +23,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+
 
 ### :coffee: &nbsp; Let's have a coffee chat:
 
