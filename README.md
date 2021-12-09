@@ -6,13 +6,14 @@
 ![profile count](https://komarev.com/ghpvc/?username=TimBstn&color=red)&nbsp;
 [![GitHub TimBstn](https://img.shields.io/github/followers/TimBstn?label=follow&style=social)](https://github.com/TimBstn)&nbsp;
 ![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)
-### 👨🏻‍💻 &nbsp;About Me
+### :point_right: &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+💡 &nbsp; I'm a student very interested in algorithmic trading and financial markets. \
+💻 &nbsp;I'm currently looking for an internship position in this area.\
+🎓&nbsp;I graduated form Technical University Berlin, Germany (B.Science, Business Mathematics).\
+:office:&nbsp;I am currently doing a Master's program at Hult International Business School, United Stated (M.Science, Business Analytics).\
+:chart_with_upwards_trend: &nbsp;I'm on track for learning more about Artificial Intelligence, Algorithmic Trading and Portfolio Optimization.\
+:soccer: &nbsp;In my free time, I play soccer, beach volleyball and read a lot.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at tim_bastian97@web.de.\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1AEs-jhOYdpgN4YfCQwodfytMPpp-VBJ_/view?usp=sharing) for more details about me.
