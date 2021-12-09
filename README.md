@@ -2,7 +2,7 @@
 
 
 ### :raised_hand: Hello there !
-![version :09.12.2021](https://img.shields.io/badge/version-09.12.2021-informational) &nbsp;
+(https://img.shields.io/badge/version-09.12.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
