@@ -1,4 +1,4 @@
-<img src='[Hnet.com-image.gif]' alt=""></img>
+<img src="Hnet.com-image.gif?raw=true"/>
 
 
 ### :raised_hand: Hello there !
