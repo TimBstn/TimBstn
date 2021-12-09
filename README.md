@@ -37,7 +37,7 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
-###:coffee: &nbsp; Let'have a coffee chat:
+### :coffee: &nbsp; Let'have a coffee chat:
 
 
 <a href="https://www.linkedin.com/in/tim-bastian-606594203//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
