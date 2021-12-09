@@ -28,6 +28,13 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
 
 
+### :exclamation: &nbsp Most important Projects
+
+[Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer)
+<img src="ERC_MA.PNG?raw=true"/>
+
+[Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
+
 
 ### :coffee: &nbsp; Let's have a coffee chat:
 
