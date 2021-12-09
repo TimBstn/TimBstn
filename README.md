@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![R](https://img.shields.io/static/v1?label=#75AADB&message=R&color=white>)&nbsp;
+![R](https://img.shields.io/static/v1?style=flat&logo=appveyor&message=R&color=white>)&nbsp;
 
 ### :coffee: &nbsp; Let's have a coffee chat:
 
