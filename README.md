@@ -31,6 +31,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=plastic)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=white&style=plastic)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-#97627?logo=tableau&logoColor=white&style=plastic)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
 
 ---
