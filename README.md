@@ -39,14 +39,14 @@
 ### :exclamation: &nbsp; Most important Projects
 
 [Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer) \
-<img src="ERC_MA.PNG?raw=true" width="500"/> \
+<img src="ERC_MA.PNG?raw=true" width="700"/> 
 
 [Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
 
 ---
 
-[Investments Strategies during Climate Change](https://github.com/TimBstn/Climate-Change-Investing-Strategies)
-<img src="Strategy.PNG?raw=true"/>
+[Investments Strategies during Climate Change](https://github.com/TimBstn/Climate-Change-Investing-Strategies)\
+<img src="Strategy.PNG?raw=true" width="700"/>
 
 [Find out how to invest here!](https://public.tableau.com/views/Climate_Change_Investing_Strategies/Story?:language=de-DE&:display_count=n&:origin=viz_share_link)
 
