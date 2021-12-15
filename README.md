@@ -38,8 +38,8 @@
 ---
 ### :exclamation: &nbsp; Most important Projects
 
-[Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer)
-<img src="ERC_MA.PNG?raw=true"/>
+[Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer) \
+<img src="ERC_MA.PNG?raw=true" width="500"/> \
 
 [Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
 
