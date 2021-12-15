@@ -45,6 +45,13 @@
 
 ---
 
+[Investments Strategies during Climate Change](https://github.com/TimBstn/Climate-Change-Investing-Strategies)
+<img src="Strategy.PNG?raw=true"/>
+
+[Find out how to invest here!](http://timbstn.pythonanywhere.com/)
+
+---
+
 ### :coffee: &nbsp; Let's have a coffee chat:
 
 
