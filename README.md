@@ -39,7 +39,7 @@
 ### :exclamation: &nbsp; Most important Projects
 
 [Stock Portfolio Analyzer](https://github.com/TimBstn/Portfolio-Analyzer)
-<img src="ERC_MA.PNG?raw=true"  width="500" height="400"/>
+<img src="ERC_MA.PNG?raw=true"/>{:height="50%" width="50%"}
 
 [Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
 
