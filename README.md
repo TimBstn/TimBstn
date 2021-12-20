@@ -19,7 +19,7 @@
 :soccer: &nbsp;In my free time, I play soccer, beach volleyball and read a lot.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at tim_bastian97@web.de.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1AEs-jhOYdpgN4YfCQwodfytMPpp-VBJ_/view?usp=sharing) for more details about me.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1ylvswo9kM3y0kXO8MqMCNKq4gzr_8q5f/view?usp=sharing) for more details about me.
 
 ---
 ### 🛠 &nbsp;Tech Stack
