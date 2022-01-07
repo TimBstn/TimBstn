@@ -49,7 +49,7 @@
 
 #### Research Based Stock Trading Strategies
 
-- [Analyze your portfolio here!](http://strategies-timbstn.pythonanywhere.com/)
+- [Analyze strategies here!](http://strategies-timbstn.pythonanywhere.com/)
 - [See Project on Github](https://github.com/TimBstn/Portfolio-Analyzer) 
 
 <img src="screenshot1.PNG?raw=true" width="700"/> 
