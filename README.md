@@ -41,9 +41,18 @@
 #### Stock Portfolio Analyzer
 
 - [Analyze your portfolio here!](http://timbstn.pythonanywhere.com/)
-- [See Project on Github](https://github.com/TimBstn/Portfolio-Analyzer) 
+- [See Project on Github](https://github.com/TimBstn/Fundamental-Trading-Strategies) 
 
 <img src="ERC_MA.PNG?raw=true" width="700"/> 
+
+---
+
+#### Research Based Stock Trading Strategies
+
+- [Analyze your portfolio here!](http://strategies-timbstn.pythonanywhere.com/)
+- [See Project on Github](https://github.com/TimBstn/Portfolio-Analyzer) 
+
+<img src="screenshot1.PNG?raw=true" width="700"/> 
 
 ---
 
