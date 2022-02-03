@@ -1,5 +1,7 @@
 <img src="Hnet.com-image.gif?raw=true"/>
 
+Check out my YouTube-Channel:
+https://img.shields.io/badge/-TB%20Investing-FF0000?logo=youtube&logoColor=red&style=plastic
 
 ### :raised_hand: Hello there !
 ![version :15.12.2021](https://img.shields.io/badge/version-15.12.2021-informational) &nbsp;
