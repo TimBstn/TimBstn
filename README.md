@@ -1,7 +1,7 @@
 <img src="Hnet.com-image.gif?raw=true"/>
 
 Check out my YouTube-Channel:
-[TB Investing](https://www.youtube.com/channel/UCwoNk-QxFZasZiCTOlQN72A)
+[Tim Learns](https://www.youtube.com/channel/UCwoNk-QxFZasZiCTOlQN72A)
 
 ### :raised_hand: Hello there !
 ![version :15.12.2021](https://img.shields.io/badge/version-15.12.2021-informational) &nbsp;
