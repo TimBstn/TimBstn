@@ -7,7 +7,7 @@ Check out my Blog:
 [Tim Learns](https://timlearns.com)
 
 Check out my interactive CV:
-[Tim Learns](https://timlearns.com/cv/)
+[Interactive CV](https://timlearns.com/cv/)
 
 
 ### :raised_hand: Hello there !
