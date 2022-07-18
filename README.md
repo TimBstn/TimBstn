@@ -6,6 +6,10 @@ Check out my YouTube-Channel:
 Check out my Blog:
 [Tim Learns](https://timlearns.com)
 
+Check out my interactive CV:
+[Tim Learns](https://timlearns.com/cv/)
+
+
 ### :raised_hand: Hello there !
 ![version :15.12.2021](https://img.shields.io/badge/version-15.12.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=TimBstn&color=red)&nbsp;
