@@ -77,7 +77,7 @@ Check out my interactive CV:
 ### :coffee: &nbsp; Let's have a coffee chat:
 
 
-<a href="https://www.linkedin.com/in/tim-bastian-606594203//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/tbast/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:tim_bastian97@web.de"><img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/timbstn8/"><img src="https://img.shields.io/badge/-@timbstn8_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
