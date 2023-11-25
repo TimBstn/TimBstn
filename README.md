@@ -1,34 +1,11 @@
 <img src="Hnet.com-image.gif?raw=true"/>
 
-Check out my YouTube-Channel:
-[Tim Learns](https://www.youtube.com/channel/UCwoNk-QxFZasZiCTOlQN72A)
-
-Check out my Blog:
-[Tim Learns](https://timlearns.com)
-
-Check out my interactive CV:
-[Interactive CV](https://timlearns.com/cv/)
-
 
 ### :raised_hand: Hello there !
 ![version :15.12.2021](https://img.shields.io/badge/version-10/21/2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=TimBstn&color=red)&nbsp;
 [![GitHub TimBstn](https://img.shields.io/github/followers/TimBstn?label=follow&style=social)](https://github.com/TimBstn)&nbsp;
 ![bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)
-
----
-
-### :point_right: &nbsp;About Me
-
-💡 &nbsp; I'm a student very interested in algorithmic trading and financial markets. \
-💻 &nbsp;I'm currently looking for an internship position in this area.\
-🎓&nbsp;I graduated form Technical University Berlin, Germany (B.Science, Business Mathematics).\
-:office:&nbsp;I am currently doing a Master's program at Hult International Business School, United Stated (M.Science, Business Analytics).\
-:chart_with_upwards_trend: &nbsp;I'm on track for learning more about Artificial Intelligence, Algorithmic Trading and Portfolio Optimization.\
-:soccer: &nbsp;In my free time, I play soccer, beach volleyball and read a lot.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at tim_bastian97@web.de.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1ZLjsJmPN8aEyyDkfGt4sEpkWxMM9TjuC/view?usp=sharing) for more details about me.
 
 ---
 ### 🛠 &nbsp;Tech Stack
